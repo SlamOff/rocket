@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c6846c14-6b2d-4c9e-980d-e6600ad52bab" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/asset-manifest.json" afterPath="$PROJECT_DIR$/build/asset-manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -72,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="286" lean-forward="false" selection-start-line="0" selection-start-column="286" selection-end-line="0" selection-end-column="286" />
+              <caret line="0" column="440" lean-forward="false" selection-start-line="0" selection-start-column="440" selection-end-line="0" selection-end-column="440" />
               <folding />
             </state>
           </provider>
@@ -92,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="asset-manifest.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="asset-manifest.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/asset-manifest.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -157,9 +157,9 @@
         <option value="$PROJECT_DIR$/src/components/Pagination/index.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/components/Pagination/style.css" />
-        <option value="$PROJECT_DIR$/build/index.html" />
         <option value="$PROJECT_DIR$/build/service-worker.js" />
         <option value="$PROJECT_DIR$/build/asset-manifest.json" />
+        <option value="$PROJECT_DIR$/build/index.html" />
       </list>
     </option>
   </component>
@@ -328,12 +328,12 @@
       <workItem from="1525254562536" duration="17704000" />
       <workItem from="1525332907643" duration="8417000" />
       <workItem from="1525357266036" duration="43000" />
-      <workItem from="1525358643466" duration="2611000" />
+      <workItem from="1525358643466" duration="2791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36705000" />
+    <option name="totallyTimeSpent" value="36885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
@@ -693,14 +693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="286" lean-forward="false" selection-start-line="0" selection-start-column="286" selection-end-line="0" selection-end-column="286" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -740,6 +732,14 @@
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="440" lean-forward="false" selection-start-line="0" selection-start-column="440" selection-end-line="0" selection-end-column="440" />
           <folding />
         </state>
       </provider>
