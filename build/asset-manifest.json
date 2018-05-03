@@ -1,6 +1,6 @@
 {
-  "main.css": "build/static/css/main.95fd4b91.css",
-  "main.css.map": "build/static/css/main.95fd4b91.css.map",
-  "main.js": "build/static/js/main.d3f60b17.js",
-  "main.js.map": "build/static/js/main.d3f60b17.js.map"
+  "main.css": "rocket/static/css/main.95fd4b91.css",
+  "main.css.map": "rocket/static/css/main.95fd4b91.css.map",
+  "main.js": "rocket/static/js/main.d3f60b17.js",
+  "main.js.map": "rocket/static/js/main.d3f60b17.js.map"
 }
