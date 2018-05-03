@@ -8,22 +8,3 @@ body {
 .container {
     padding: 0 100px;
 }
-.rocket__list {
-    width: 50%;
-    display: block;
-    margin: 0 auto;
-}
-.rocket__item {
-    list-style: none;
-    padding: 0;
-}
-.rocket__item__title {
-    color: #e60000;
-    font-size: 24px;
-    margin-top: 0;
-    margin-bottom: 30px;
-    text-align: center;
-}
-.rocket__item__pict {
-    max-width: 100%;
-}

@@ -1,7 +1,5 @@
 .header {
     display: flex;
-    padding: 10px 0;
-    margin-bottom: 30px;
 }
 .header__logo {
     max-width: 80px;
