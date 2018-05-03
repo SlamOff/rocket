@@ -92,7 +92,7 @@ export default class Body extends Component {
                     }
                 </ul>
                 <ul className="pagination">
-                    <Pagination pageClick = {1} />
+                    <Pagination />
                 </ul>
             </div>
         )

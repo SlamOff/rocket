@@ -64,7 +64,7 @@ export default class Pagination extends Component {
 
     };
     render(){
-        const { pageClick } = this.props;
+        //const { pageClick } = this.props;
         //console.log(pageClick);
         return (
             this.buildPages()
